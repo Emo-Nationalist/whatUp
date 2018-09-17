@@ -10,7 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <div>Greatest album of all time</dv>
-        <href rc ='https://upload.wikimedia.org/wikipedia/en/0/02/CityOfCaterpillarAlbum.jpg'</hrev>
+        <div>Greatest album of all time</div>
+    <href rc ='https://upload.wikimedia.org/wikipedia/en/0/02/CityOfCaterpillarAlbum.jpg'>
     </body>
 </html>
