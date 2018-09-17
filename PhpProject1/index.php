@@ -11,6 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <div>Greatest album of all time</div>
-    <href rc ='https://upload.wikimedia.org/wikipedia/en/0/02/CityOfCaterpillarAlbum.jpg'>
+    <img src ='https://upload.wikimedia.org/wikipedia/en/0/02/CityOfCaterpillarAlbum.jpg'>
     </body>
 </html>
